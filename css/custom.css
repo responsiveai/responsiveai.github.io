@@ -1,1 +1,65 @@
 /* This file contains all the custom css */
+
+
+.main-header {
+    margin-bottom: 0 !important;
+    color: white;
+}
+.main-header a {
+    color: white;
+}
+.mast-head {
+    background-image: url('../imgs/mast-head-bg.png');
+    height: 100vh;
+    background-size: cover;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    color: white;
+}
+.iphone-mast-head {
+    position: absolute;
+    bottom: 0;
+}
+.people-centered {
+    background-color: #023047;
+    color: white;
+    padding-top: 190px;
+    padding-bottom: 190px;
+    text-align: center;
+}
+.how-responsive-works {
+    padding-top: 160px;
+    padding-bottom: 160px;
+}
+.solutions-section {
+    padding-top: 115px;
+    padding-bottom: 115px;
+}
+.main-sections {
+    padding-top: 108px;
+    padding-bottom: 108px;
+}
+.features-section {
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+.about-section {
+    padding-top: 85px;
+    padding-bottom: 85px;
+    background-color: #FFB703;
+}
+.about-section img {
+    width: 100%;
+}
+.coming-soon {
+    background-image: url('../imgs/coming-soon-bg.png');
+    padding-top: 430px;
+    padding-bottom: 180px;
+    background-size: cover;
+}

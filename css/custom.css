@@ -222,3 +222,48 @@ footer ul li{
     font-size: 46px;
     font-weight: 600;
 }
+.solutions-section .card {
+    background-color: #8ECAE6;
+    border-color: #8ECAE6;
+}
+.solutions-section .card-header {
+    border-bottom: none;
+    background: transparent;
+    padding-right: 45px;
+    padding-left: 45px;
+    padding-bottom: 45px !important;
+    padding-top: 45px !important;
+}
+.solutions-section .card-header h4 {
+    font-size: 45px;
+    font-weight: 600 !important;
+}
+.solutions-section .card-header h4 img {
+    height: 47px;
+    margin-right: 14px;
+    padding-bottom: 6px;
+}
+.solutions-section .card-body {
+    padding-right: 45px;
+    padding-left: 45px;
+    padding-bottom: 45px;
+    padding-top: 0;
+}
+.solutions-section .card-body p {
+    font-size: 23px;
+}
+.solutions-section .card-body ul li {
+    font-size: 21px;
+    font-weight: 300;
+    margin-bottom: 22px;
+}
+.solutions-section .card-body ul li img {
+    height: 27px;
+    width: 27px;
+    margin-right: 10px;
+}
+.solutions-section h1 {
+    margin-bottom: 40px;
+    font-size: 60px;
+    font-weight: 600;
+}

@@ -175,3 +175,50 @@ footer ul li{
 .about-section p {
     margin-bottom: 30px;
 }
+.features-section img {
+    width: 69px;
+    height: 69px;
+    margin-bottom: 13px;
+}
+.features-section h1 {
+    margin-bottom: 24px;
+    font-size: 60px;
+    font-weight: 600;
+}
+.features-section h4 {
+    font-size: 20px;
+    margin-bottom: 9px;
+}
+.features-section p {
+    max-width: 870px;
+    margin: auto;
+    margin-bottom: 100px;
+}
+.features-section .features-row p {
+    max-width: 350px;
+    margin: auto;
+    margin-bottom: 80px;
+    font-size: 17px;
+}
+.features-section .feature-icon {
+    height: 38px;
+    width: auto;
+    margin-bottom: 0;
+}
+.main-sections p {
+    max-width: 440px;
+}
+.main-sections img {
+    margin-bottom: 60px;
+}
+.main-sections h6 {
+    margin-top: 33px;
+    margin-bottom: 21px;
+    font-size: 17px;
+    font-weight: 600;
+}
+.main-sections h2 {
+    margin-bottom: 28px;
+    font-size: 46px;
+    font-weight: 600;
+}

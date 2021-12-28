@@ -267,3 +267,157 @@ footer ul li{
     font-size: 60px;
     font-weight: 600;
 }
+.how-responsive-works .accordion-button {
+    font-size: 32px;
+    border: none;
+}
+.how-responsive-works .accordion-body {
+    font-size: 23px;
+    color: #023047;
+    padding-left: 82px;
+    padding-bottom: 35px;
+}
+.how-responsive-works .accordion-item {
+    border: none;
+}
+.how-responsive-works .accordion-button img {
+    margin-right: 16px;
+}
+.how-responsive-works .accordion-button:not(.collapsed) {
+    background: transparent;
+    color: #023047;
+}
+.how-responsive-works .accordion-button:not(.collapsed) {
+    box-shadow: none;
+}
+.how-responsive-works h1  {
+    font-size: 48px;
+    margin-bottom: 37px;
+    font-weight: 600;
+}
+.how-responsive-works .accordion-button::after {
+    margin-left: 24px;
+}
+.how-responsive-works {
+    position: relative;
+}
+.how-responsive-works .col-md-6 {
+    overflow: hidden;
+}
+.how-responsive-woks-main-image img {
+    position: absolute;
+    right: 0;
+    top: 290px;
+    max-width: 700px;
+}
+.people-centered img {
+    width: 350px;
+    margin-bottom: 15px;
+}
+.people-centered h1 {
+    font-size: 55px;
+    margin-bottom: 15px;
+}
+.people-centered p {
+    font-size: 24px;
+    margin-bottom: 40px;
+}
+.mast-head h1 {
+    font-size: 62px;
+    font-weight: 300 !important;
+    line-height: 71px !important;
+    margin-bottom: 40px !important;
+}
+.mast-head p {
+    font-size: 26px !important;
+    line-height: 40px !important;
+    margin-bottom: 27px !important;
+}
+.mast-head .btn-primary {
+    background: white;
+    border: white;
+    color: #012F47;
+    font-weight: 600;
+    font-size: 19px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    padding-right: 48px !IMPORTANT;
+    padding-left: 48px !important;
+    border-radius: 25px;
+}
+.mast-head .btn-primary:hover {
+    background-color: #219EBC;
+    border: #219EBC;
+    color: white;
+}
+.mast-head .btn-outline-secondary {
+    background: transparent;
+    border: solid white 4px;
+    color: white;
+    font-weight: 600;
+    font-size: 19px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    padding-right: 48px !IMPORTANT;
+    padding-left: 48px !important;
+    border-radius: 25px;
+}
+.mast-head .btn-outline-secondary:hover {
+    background-color: #219EBC;
+    border: solid 4px #219EBC;
+    color: white;
+}
+body .fixed-top  {
+    position: absolute;
+}
+.main-header {
+    padding-top: 30px !important;
+}
+.main-header a {
+    font-size: 17px;
+    padding-right: 15px !important;
+    padding-left: 15px !important;
+}
+.main-header a:hover {
+    color: #219EBC;
+}
+.main-header .btn-outline-primary {
+    border: none;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+}
+.main-header .btn-outline-primary:hover {
+    border: none;
+    color: #219EBC;
+    background-color: transparent;
+    font-size: 16px;
+    font-weight: 600;
+}
+.main-header .btn-primary {
+    border: none;
+    color: white;
+    background-color: #219EBC;
+    font-size: 16px;
+    font-weight: 600;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    border-radius: 25px;
+    padding-right: 25px;
+    padding-left: 25px;
+}
+.main-header .btn-primary:hover {
+    border: none;
+    color: #219EBC;
+    background-color: white;
+    font-size: 16px;
+    font-weight: 600;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    border-radius: 25px;
+    padding-right: 25px;
+    padding-left: 25px;
+}
+.mast-head .iphone-mast-head {
+    height: 650px;
+}

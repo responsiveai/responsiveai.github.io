@@ -1,6 +1,11 @@
 /* This file contains all the custom css */
-
-
+h1, h2, h3, h4, h5, h6, p {
+    font-family: 'Poppins', sans-serif;
+}
+p {
+    font-weight: 300;
+    font-size: 21.33px;
+}
 .main-header {
     margin-bottom: 0 !important;
     color: white;
@@ -67,4 +72,63 @@
 .lets-talk {
     padding-top: 200px;
     padding-bottom: 150px;
+}
+footer h4 {
+    font-size: 26px;
+    text-transform: uppercase;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+footer ul li{
+    margin-bottom: 18px;
+    font-size: 21px;
+    font-weight: 300;
+}
+.top-footer img {
+    margin-bottom: 22px;
+}
+.top-footer {
+    padding-bottom: 21px;
+}
+.bottom-footer .container {
+    border-top: solid 1px #EDEDED;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.top-footer button {
+    padding-right: 8px;
+    padding-left: 8px;
+    line-height: .8;
+    background-color: #EDEDED;
+    border-color: #EDEDED;
+    margin-right: 11px;
+}
+.top-footer button:hover {
+    background-color: white;
+    border-color: white;
+}
+.top-footer button svg {
+    width: 16px;
+    height: 16px;
+    color: #023047;
+}
+.top-footer .input-group {
+    margin-bottom: 22px;
+}
+.top-footer .w-50 {
+    width: 60% !important;
+}
+.lets-talk .form-control {
+    margin-bottom: 17px;
+}
+.lets-talk button {
+    background-color: #219EBC;
+    border-color: #219EBC;
+}
+.lets-talk h1 {
+    font-weight: 600;
+    margin-bottom: 25px;
+}
+.lets-talk p {
+    margin-bottom: 22px;
 }

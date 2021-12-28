@@ -421,3 +421,17 @@ body .fixed-top  {
 .mast-head .iphone-mast-head {
     height: 650px;
 }
+@media (max-width: 991.98px) { 
+    .mast-head .iphone-mast-head {
+        display: none;
+    }
+    .how-responsive-woks-main-image img {
+        display: none;
+    }
+    .main-header button {
+        display: none;
+    }
+    .main-header ul {
+        display: none;
+    }
+ }
